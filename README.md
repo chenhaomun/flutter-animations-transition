@@ -1,4 +1,4 @@
-# Codelab: Building Beautiful Transitions with Material Motion for Flutter
+# Building Beautiful Transitions with Material Motion for Flutter
 
 The Material motion system for Flutter is a set of transition patterns within
 the [Animations package](https://pub.dev/packages/animations) that can help
@@ -14,6 +14,6 @@ The starter code is available on the default `starter` branch, and the complete
 code is available on the `complete` branch, which can you can checkout by
 running `git checkout complete`.
 
-| Android | iOS |
-|----|----|
-|![Reply transitions for Android](screenshots/reply-transitions-android.gif) |![Reply transitions for iOS](screenshots/reply-transitions-iOS.gif)|
+| Android                                                                     | iOS                                                                 |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![Reply transitions for Android](screenshots/reply-transitions-android.gif) | ![Reply transitions for iOS](screenshots/reply-transitions-iOS.gif) |
